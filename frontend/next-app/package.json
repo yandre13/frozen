@@ -1,0 +1,24 @@
+{
+	"name": "frozen",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"jump.js": "^1.0.2",
+		"keen-slider": "^5.4.1",
+		"next": "10.2.3",
+		"react": "17.0.2",
+		"react-dom": "17.0.2",
+		"video.js": "^7.12.3"
+	},
+	"devDependencies": {
+		"autoprefixer": "^10.2.6",
+		"postcss": "^8.3.0",
+		"prettier": "^2.3.0",
+		"tailwindcss": "^2.1.2"
+	}
+}
